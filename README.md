@@ -1,4 +1,4 @@
-# Celestial-Tower-sm64ds
+# Celestial Tower
 Dreamy 1-Star minihack in which you play as Yoshi.
 
 The hack is supplied an an xDelta patch. Apply this patch to a **clean European ROM of SM64DS** to play the game.
