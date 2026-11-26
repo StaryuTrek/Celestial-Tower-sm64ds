@@ -10,14 +10,14 @@ The hack is supplied an an xDelta patch. Apply this patch to a **clean European 
 Works on original hardware and emulator.
 <br/><br/>
 
-**KNOWN ISSUES:**
-- Flags on file select screen are still visible.
+**CHANGELOG:**
+- v1.0.1: Removed file select flags (thanks BlueXer0)
 <br/><br/>
 
 **CREDITS:**
 - **Level design**: moi
 - **Music**: moi, instruments from SM64DS, with a little help from Wacher Hinovator
-- **Graphics**: moi, got help from Hailbot, [Garhoogin](https://github.com/Garhoogin), [Hodgeblossom](https://github.com/Hodgeblossom), Wacher Hinovator, Larry Koopa 64 DS Hacker
+- **Graphics**: moi, got help from Hailbot, [Garhoogin](https://github.com/Garhoogin), [Hodgeblossom](https://github.com/Hodgeblossom), Wacher Hinovator, Larry Koopa 64 DS Hacker, [BlueXer0](https://github.com/BlueXer0)
 - **Code**: [pants64](https://github.com/pants64DS)
 - **Tools used**: SM64DSe, [Anvil Studio](https://anvilstudio.com/), MS Paint, [NitroPaint](https://github.com/Garhoogin/NitroPaint/releases), Nitro Studio 2, [MelonDS](https://melonds.kuribo64.net/downloads.php), DeSmuME, NSMBe, [TwilightMenu++](https://github.com/DS-Homebrew/TWiLightMenu/releases), [HxD](https://hxdhexeditor.com/), [Blender](https://www.blender.org/), [GIMP](https://www.gimp.org/), [Crystal Tile 2](https://www.romhacking.net/utilities/818/)
 - **Original game**: Nintendo
